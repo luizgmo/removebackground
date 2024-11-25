@@ -18,13 +18,8 @@ Certifique-se de ter os seguintes pacotes instalados:
 - `Pillow` - para manipulação de imagens.
 - `Tkinter` - para a interface gráfica do usuário.
 
-### Para instalar os requisitos, execute:
+### Para instalar os requisitos e executar:
 
 ```bash
 pip install rembg pillow
-
-### Para executar:
-
-- Clone o repositório
-```bash
 python removebg.py
